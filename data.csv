@@ -1,16 +1,33 @@
-Name ,Number,Email,Address,Date of Birth,10th Marks,12th Marks
-Ankit Singh,9305852784,ankitsinghrajput3348@gmail.com,gorakhpur,07-04-2002,89,52
-joierg,7589456478,gvhdsj@gmail.com,gorakhpur,08-04-2002,90,53
-nbnfjds,6379820378,fgehjk@gmail.com,gorakhpur,09-04-2002,91,54
-f jdasbjvd,464738290,hhrfqeuyh@gmail.com,gorakhpur,12-04-2002,92,55
-hguguer,4.69E+09,gmcdg@gmail.com,gorakhpur,10-05-2002,89,67
-hdh,5.69E+09,gffdghd@gmail.com,gorakhpur,10-04-2002,95,34
-eydgug,7.69E+09,gndsg@gmail.com,gorakhpur,10-04-2003,89,69
-jhdd,4.89E+09,vbhdsjfdg@gmail.com,gorakhpur,10-04-2005,82,89
-dhegoeue,4.78E+09,dabssg@gmail.com,gorakhpur,13-04-2002,57,90
-kjehrg,6.87E+09,dsmcdk@gmail.com,gorakhpur,10-09-2002,89,89
-rfeuh,9.69E+09,mkvnjsg@gmail.com,gorakhpur,10-08-2002,90,56
-fiuhu,4.69E+09,dsjjbjds@gmail.com,gorakhpur,23-04-2002,78,45
-uhfh,4.29E+09,gdcsnv@gmail.com,gorakhpur,18-05-2002,89,68
-fhui,4.99E+09,gdsbhcjs@gmail.com,gorakhpur,12-05-2002,78,98
-nbnfjds,4.69E+09,gffdg@gmail.com,gorakhpur,10-05-2002,89,78
+Gender,Age,Occupation,Education Level,Frequency of Technical Issues,Technical Problems,Methods of Distribution,Important Factors,Likelihood of Using Platform,Expected Features,User Friendly Expectations,Willingness to Provide Personal Info,Customer Support Importance
+Female,25-35,Employed Part-time,Bachelor's Degree,Occasionally,Hardware Issues,Online Search,Availability,Unlikely,Detailed Technician Profiles,Somewhat Complicated,Yes,Not Very Important
+Male,35-44,Student,Master's Degree,Occasionally,Software Issues,Word of Mouth,Price,Very Likely,Reviews and Ratings System,User-Friendly,Yes,Important
+Male,35-44,Student,Master's Degree,Occasionally,Home Network Setup,Online Search,Convenience,Neutral,Appointment Scheduling,User-Friendly,No,Neutral
+Female,35-44,Employed Part-time,Master's Degree,Occasionally,Software Issues,Social Media,Availability,Likely,Real-time Communication with Technicians,Very User-Friendly,No,Not Important at All
+Male,45-54,Employed Part-time,Master's Degree,Rarely,Hardware Issues,Online Search,Convenience,Very Likely,Job Posting and Application,Neutral,No,Not Very Important
+Male,35-44,Student,Master's Degree,Rarely,Home Network Setup,Online Search,Quality of Service,Neutral,Appointment Scheduling,User-Friendly,Yes,Important
+Female,25-35,Employed Part-time,Master's Degree,Frequently,Data Recovery,Online Search,Reviews and Ratings,Very Likely,Reviews and Ratings System,Somewhat Complicated,Depends on the Security Measures in Place,Important
+Male,25-35,Student,Bachelor's Degree,Frequently,Software Issues,Other,Price,Likely,Reviews and Ratings System,Neutral,Yes,Important
+Male,35-44,Student,Other,Occasionally,Software Issues,Word of Mouth,Reviews and Ratings,Likely,Appointment Scheduling,User-Friendly,No,Very Important
+Male,25-35,Employed Part-time,Bachelor's Degree,Frequently,Software Issues,Word of Mouth,Quality of Service,Very Likely,Reviews and Ratings System,User-Friendly,Yes,Neutral
+Female,25-35,Student,Bachelor's Degree,Occasionally,Home Network Setup,Word of Mouth,Reviews and Ratings,Very Likely,Detailed Technician Profiles,User-Friendly,Yes,Important
+Female,25-35,Employed Full-time,Bachelor's Degree,Occasionally,Software Issues,Word of Mouth,Quality of Service,Very Likely,Job Posting and Application,Very User-Friendly,Yes,Very Important
+Female,25-35,Employed Part-time,Bachelor's Degree,Very Frequently,Hardware Issues,Word of Mouth,Reviews and Ratings,Likely,Real-time Communication with Technicians,User-Friendly,Yes,Very Important
+Female,18-24,Student,Master's Degree,Occasionally,Hardware Issues,Online Search,Quality of Service,Very Likely,Detailed Technician Profiles,Very User-Friendly,Depends on the Security Measures in Place,Very Important
+Female,25-35,Self-Employed,Bachelor's Degree,Very Frequently,Hardware Issues,Online Search,Price,Very Likely,Detailed Technician Profiles,Very User-Friendly,Yes,Not Important at All
+Male,25-35,Employed Full-time,Master's Degree,Occasionally,Software Issues,Social Media,Reviews and Ratings,Likely,Detailed Technician Profiles,Very User-Friendly,Depends on the Security Measures in Place,Very Important
+Male,25-35,Student,Other,Occasionally,Software Issues,Other,Price,Likely,Reviews and Ratings System,Very User-Friendly,Yes,Very Important
+Male,35-44,Student,Bachelor's Degree,Rarely,Software Issues,Online Search,Price,Neutral,Detailed Technician Profiles,User-Friendly,Yes,Very Important
+Female,25-35,Student,Master's Degree,Occasionally,Data Recovery,Word of Mouth,Convenience,Likely,Reviews and Ratings System,Very User-Friendly,Yes,Important
+Female,25-35,Student,Bachelor's Degree,Occasionally,Software Issues,Online Search,Reviews and Ratings,Likely,Detailed Technician Profiles,User-Friendly,Depends on the Security Measures in Place,Neutral
+Male,45-54,Employed Part-time,Master's Degree,Frequently,Software Issues,Online Search,Quality of Service,Very Likely,Reviews and Ratings System,Very User-Friendly,Depends on the Security Measures in Place,Very Important
+Female,18-24,Student,Bachelor's Degree,Rarely,Software Installation,Word of Mouth,Reviews and Ratings,Unlikely,Reviews and Ratings System,User-Friendly,Depends on the Security Measures in Place,Important
+Male,35-44,Employed Full-time,Bachelor's Degree,Frequently,Software Issues,Word of Mouth,Quality of Service,Likely,Job Posting and Application,Very User-Friendly,Yes,Very Important
+Male,45-54,Student,Bachelor's Degree,Frequently,Software Issues,Online Search,Availability,Very Likely,Detailed Technician Profiles,Neutral,Yes,Important
+Female,35-44,Employed Full-time,Other,Occasionally,Software Issues,Word of Mouth,Price,Likely,Job Posting and Application,Very User-Friendly,No,Very Important
+Female,35-44,Student,Bachelor's Degree,Occasionally,Software Issues,Social Media,Quality of Service,Very Likely,Other,Very User-Friendly,Yes,Very Important
+Female,35-44,Unemployed,Bachelor's Degree,Very Frequently,Software Issues,Word of Mouth,Quality of Service,Likely,Appointment Scheduling,Very Complicated,Yes,Important
+Female,25-35,Student,Bachelor's Degree,Rarely,Software Issues,Referral Services,Convenience,Very Likely,Other,User-Friendly,Yes,Important
+Female,25-35,Employed Full-time,Master's Degree,Occasionally,Software Issues,Online Search,Quality of Service,Likely,Detailed Technician Profiles,Very Complicated,No,Neutral
+Female,25-35,Student,Bachelor's Degree,Occasionally,Hardware Issues,Online Search,Convenience,Very Unlikely,Job Posting and Application,Very User-Friendly,Yes,Not Very Important
+Male,25-35,Employed Part-time,Master's Degree,Frequently,Software Issues,Word of Mouth,Quality of Service,Very Unlikely,Appointment Scheduling,Very User-Friendly,Depends on the Security Measures in Place,Very Important
+Female,35-44,Student,Bachelor's Degree,Frequently,Software Installation,Referral Services,Reviews and Ratings,Unlikely,Appointment Scheduling,User-Friendly,Yes,Important
